@@ -47,5 +47,4 @@ This is a beginner-friendly data science project that analyzes a dataset of over
 
 ## 🙌 Made For Learning
 
-This project was built to **learn Data Science in a simple and visual way**, even if you’re just getting started.
 
